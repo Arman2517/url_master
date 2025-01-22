@@ -1,0 +1,1 @@
+curl -X POST localhost:8000/shorten -H "Content-Type: application/json" -d '{"url":"https://en.cppreference.com/w/cpp/numeric/random/uniform_int_distribution"}'
